@@ -3,6 +3,9 @@ import time
 from Utilities import int_input, yes_no
 from Utilities import Color
 
+if __name__ == "__main__":
+    main()
+
 
 def character_group():
 
@@ -45,6 +48,7 @@ def main():
             break
 
 main()
+
 
 
 
